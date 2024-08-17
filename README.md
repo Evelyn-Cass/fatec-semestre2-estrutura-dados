@@ -1,2 +1,12 @@
-# fatec-semestre2-estrutura-dados
-Aulas do segundo semestre do curso de Desenvolvimento de Software Multiplataforma na Faculdade FATEC
+<div align="center">
+
+![FATEC](https://github.com/Evelyn-Cass/fatec-desenvolvimento-web/blob/main/img/fatec.png)
+
+</div>
+
+- Faculdade: FATEC
+- Curso: Desenvolvimento de Software Multiplataforma
+- Semestre: 2/6
+- Matéria: Estrutura de Dados
+- Professor: Tiago Antônio Da Silva
+
