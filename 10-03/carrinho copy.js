@@ -43,8 +43,6 @@ class Carrinho {
                     i++;
                 }
                 this.produto[this.tamanho] = undefined;
-                this.valor[this.tamanho] = undefined;
-                this.quantidade[this.tamanho] = undefined;
 
                 this.tamanho--;
             }
