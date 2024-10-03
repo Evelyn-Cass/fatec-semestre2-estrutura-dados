@@ -36,7 +36,7 @@ class Carrinho {
         if (this.tamanho > 0) {
             if ((codigo < this.tamanho) && (codigo >= 0)) {
                 let i = codigo;
-                while (i < this.tamanho) {
+                while (i < (this.tamanho - 1)) {
                     let j = i + 1;
                     this.produto[i] = this.produto[j];
                     this.valor[i] = this.valor[j];
